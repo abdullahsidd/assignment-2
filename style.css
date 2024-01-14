@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(204, 204, 204);
+}
+
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: maroon;
+    background-color: rgba(128, 0, 0, 0.397);
+}
+
+.li12 {
+    color: darkgreen;
+    background-color: bisque;
+}
+
+a {
+    text-decoration: wavy;
+}
+
+p {
+    color: rgb(119, 119, 119);
+}
+
+h3 {
+    color: rgb(184, 184, 37);
+    background-color: bisque;
+}
